@@ -71,7 +71,7 @@ h1 {
 .num-input {
   width: 100%;
   height: 25px;
-  font-family: roboto;
+  font-family: roboto, sans-serif;
   border: none;
   background-color: var(--input);
   border-bottom: 2px solid var(--text);
